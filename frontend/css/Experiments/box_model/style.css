@@ -1,0 +1,21 @@
+.frame {
+  border: 2px dashed gray;
+  padding: 10px;
+  margin: 20px;
+}
+
+.box {
+  width: 200px;
+  padding: 20px;
+  border: 5px solid black;
+  margin: 10px;
+}
+
+.border-box {
+  box-sizing: border-box;
+  background-color: lightblue;
+}
+.content-box {
+  box-sizing: content-box;
+  background-color: lightgreen;
+}
