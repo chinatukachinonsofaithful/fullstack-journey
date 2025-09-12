@@ -12,6 +12,7 @@ body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   background-color: #f0f0f0;
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   align-items: center;
   height: 100vh;
@@ -57,9 +58,9 @@ a {
   font-weight: 400;
 }
 
-@media (max-width: 700px) {
+/* @media (max-width: 700px) {
   body {
     flex-direction: column;
   }
 
-}
+} */
