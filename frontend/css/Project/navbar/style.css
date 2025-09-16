@@ -30,11 +30,11 @@ nav{
     color: #1B1523;
     font-weight: 400;
     text-decoration: none;
+    transition: all 0.4s ease;
 }
 .nav-links a:hover{
     color: #8C61EF;
     font-weight: 500;
-    transition: all 0.4s ease-in-out;
 }
 
 button{
